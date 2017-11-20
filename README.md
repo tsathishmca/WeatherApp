@@ -10,7 +10,7 @@
 
 - Enable "PlaceAutocomplete" API in developer console. URL : https://console.developers.google.com/apis/
 
-![alt tag](/Users/sathishthirumoorthy/Desktop/MF/Screenshot_20171119-150149.png?raw=true "Optional Title")
+![alt tag](https://github.com/tsathishmca/WeatherApp/blob/master/WeatherApp/WeatherApp/Screenshot_20171119-150149.png?raw=true "Optional Title")
 
 
 
